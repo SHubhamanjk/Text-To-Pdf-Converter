@@ -20,15 +20,15 @@ To run the application locally on your Windows machine, follow these steps:
 
 4. Create a virtual environment (optional but recommended):
 
-   Code : python -m venv venv
+         Code : python -m venv venv
 
 5. Activate the virtual environment:
 
-    Code : venv\Scripts\activate
+       Code : venv\Scripts\activate
 
 6. Install the required dependencies:
 
-    Code : pip install -r requirements.txt
+       Code : pip install -r requirements.txt
 
 7. Run the Flask application:
 
