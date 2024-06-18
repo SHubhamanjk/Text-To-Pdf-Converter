@@ -1,0 +1,509 @@
+HelpSetu
+
+
+
+
+
+
+
+Capstone-I project report submitted
+
+by the student of 
+
+Hybrid UG program in Computer Science & Data Analytics
+
+
+
+
+
+
+
+
+
+Name: Shubham Kumar Gupta
+Roll No. 2312res631
+Group No. 3
+
+
+
+
+
+
+
+
+
+
+
+    INDIAN INSTITUTE OF TECHNOLOGY PATNA
+BIHTA - 801106, INDIA
+
+12th April 2024
+
+
+Declaration
+
+
+
+
+
+I hereby declare that this submission is my own work and that, to the best of our knowledge and belief, it contains no material previously published or written by another person nor material which to a substantial extent has been accepted for the award of any other degree or diploma of the university or other institute of higher learning, except where due acknowledgment has been made in the text. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Date: 12th April, 2024						Name: Shubham Kumar Gupta
+        Roll No. 2312res631
+        Group No. 3
+      
+
+
+
+
+
+
+
+Summary of the Project
+
+
+In this project, our aim is to create a help portal where locals can easily report issues like domestic violence, child labour, inadequate child education, illegal logging, and similar concerns within their locality. We will then send these issues to relevant authorities after categorization and provide tracking of their application. This portal is made for the people, by the people, and to serve the people.
+
+
+
+	
+
+So far, we've developed the frontend of our portal and made some progress on the backend. Additionally, we've deployed the website on the internet. We're currently in the process of learning and working on the remaining backend and database components.
+Top of Form
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents 
+
+
+1. Introduction to HelpSetu
+
+* Inspiration and Ideation: How the Project Idea Emerged
+* Objectives: Aim of  This Portal
+
+2.  What We've Accomplished So Far 
+
+* Learnings In This Process
+* Snippets Of  Work
+
+3.  My Contribution In Project
+
+* What I learnt
+* My Contributions In Project
+* My Future Work
+
+4.  What’s More
+
+* Remaining Works
+
+5. Future Plans
+6. References 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 1 
+
+
+
+Introduction to HelpSetu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Inspiration and Ideation: How the Project Idea Emerged
+
+The idea for HelpSetu emerged from our collective recognition of the challenges faced by our local community, both in rural and urban areas. As community members ourselves, we were deeply concerned about issues such as domestic violence, child labour, inadequate child education, and illegal logging, which often went unreported or unnoticed due to reluctance to engage in formal procedures. We realized the need for a centralized platform where individuals could easily report such concerns and receive timely assistance without fear of repercussion.
+
+
+
+
+* Objectives: Aim of  This Portal
+
+
+Our aim is to establish a centralized and user-friendly portal where locals can easily report any issues within their locality without engaging in formal procedures and without compromising their privacy and security. Subsequently, we will ensure that reported issues are promptly forwarded to the relevant authorities of that area for necessary action.
+
+
+
+
+
+
+
+
+
+
+
+Chapter 2
+
+What We've Accomplished So Far
+
+
+
+
+
+
+
+
+
+
+
+
+
+Up to this point, our efforts have been concentrated on completing the first segment of our project, which entailed the development of the portal's frontend. Through meticulous work and attention to detail, we've managed to bring to life a user-friendly interface that not only addresses the needs of our community but also presents an aesthetically pleasing and professional appearance akin to government websites. Leveraging the power of HTML, CSS, and JavaScript, we've ensured that our website is not only visually appealing but also highly responsive, catering to the diverse needs of our users across various devices and screen sizes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Till yet , we have significantly enhanced our understanding and skills in several key areas because of this project. We learned the importance of effective teamwork and how to collaborate more efficiently with our colleagues. Time management and punctuality emerged as critical aspects, ensuring that project milestones were met on schedule. Additionally, we practiced healthy negotiation techniques within our team, which helped in resolving differences and making decisions that benefit the project. Furthermore, we became proficient in using tools like GitHub, which was instrumental in managing our codebase and facilitating seamless collaboration across different aspects of the project.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 3
+
+
+
+My Contributions In Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* What I learnt 
+
+During the initial phase of the project, focused on designing and developing the frontend of the website, I collaborated closely with my team member, Alok Ranjan. Throughout this phase, I delved into various tools and technologies essential for frontend web development. These included platforms like Figma for designing, GitHub for version control and collaboration, and Discord for team communication. Additionally, I gained proficiency in a range of programming languages and frameworks such as HTML, CSS, JavaScript, and Tailwind CSS, which were instrumental in crafting the website's frontend.
+
+One of the key learnings during this phase was understanding the process of planning and creating a website from scratch. Utilizing tools like Figma, I was able to translate our creative ideas into tangible designs, refining them until they met our vision. Regular team meetings, held every 3-4 days, allowed us to track progress, address any challenges, and ensure alignment towards our goals.
+
+Furthermore, I acquired valuable skills in code management through GitHub, learning how to push and manage code repositories effectively. Collaborating with team members on GitHub taught me the importance of clear communication and version control in a collaborative environment.
+
+In terms of frontend development, I deepened my understanding of HTML, CSS, JavaScript, and Tailwind CSS. This enabled me to create responsive, visually appealing websites that were both user-friendly and aesthetically pleasing. Finally, I gained practical experience in deploying websites to the internet, making them accessible to users worldwide through domain registration, web hosting, and optimizing for search engines (SEO).
+Top of Form
+
+* 
+* My Contributions in Project
+
+In this project, my contribution was multifaceted. Initially, I collaborated with Alok Ranjan in the designing and planning phases of the website using Figma. As we transitioned from concept to implementation, I took charge of developing key components of the website. Specifically, I designed and implemented the form page, partners page, and about us section. Additionally, I played a pivotal role in crafting the website's footer design, ensuring consistency and usability across all pages.
+
+Furthermore, I provided support to Alok Ranjan during the deployment phase, assisting in the seamless transition of the website onto the internet. Additionally, I contributed to optimizing the website for search engines (SEO), enhancing its visibility and accessibility to users. Through these efforts, I played an integral role in bringing our project to fruition, combining design expertise with technical proficiency to deliver a polished and functional website.
+
+
+
+
+
+
+
+
+
+
+
+
+
+* My Future Work
+
+In the upcoming phase, I've been tasked with backend development and API-related tasks for the website. To prepare for this responsibility, I'm currently immersing myself in learning these technologies thoroughly. I'm engaging in practical projects to solidify my understanding and skills in these areas. Once proficient, I'll seamlessly integrate these technologies into the website, ensuring a cohesive and efficient backend infrastructure to complement our frontend design.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 4
+
+
+
+What’s More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our immediate goal is to finalize the backend development and effectively manage the database for our website. Following this, we aim to deploy the entire system seamlessly onto the internet, making it accessible to everyone in a live environment. Additionally, we strive to implement automation processes to streamline operations and enhance user experience.
+Top of Form
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 5
+
+
+
+Future Plans
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Engagement with Higher Authorities and Government Officials:
+
+After full-stack development of our website, we will initiate discussions with higher authorities and government officials to explore potential collaborations and partnerships.
+
+* Automation of Processes using AI:
+
+We plan to automate the categorization, verification, and communication processes using AI technology. This automation will streamline operations and improve efficiency.
+
+* Implementation of Badge and Points System:
+
+We intend to introduce a badge and points system for individuals reporting issues. These points can be redeemed for rewards through partnerships with marketplaces. Additionally, users will have the option to showcase their earned badges.
+
+* Inclusion of Leaderboard Section:
+
+We will implement a leaderboard section on the website to recognize and highlight the contributions of active participants.
+
+* Provision of Certificates:
+
+To further recognize contributions, we will provide certificates to individuals who have made significant contributions to the platform.
+
+
+
+
+
+
+* Public Campaigns for Promotion:
+
+To increase visibility and awareness, we will conduct public campaigns to promote our website. These campaigns will target various channels to ensure widespread reach and engagement within the community.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 5
+
+
+
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HelpSetu Portal Link:
+	https://help-setu.vercel.app/
+
+Images Used In Website Generated From:
+	https://www.adobe.com/products/firefly.html
+
+Learnt Web Development From:
+
+	Code With Harry
+	Chai aur Code
+	Apna College
+	FreeCodeCamp
+
+2
+
+
