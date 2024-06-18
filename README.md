@@ -20,23 +20,23 @@ To run the application locally on your Windows machine, follow these steps:
 
 4. Create a virtual environment (optional but recommended):
 
-         Code : python -m venv venv
+         python -m venv venv
 
 5. Activate the virtual environment:
 
-       Code : venv\Scripts\activate
+       venv\Scripts\activate
 
 6. Install the required dependencies:
 
-       Code : pip install -r requirements.txt
+       pip install -r requirements.txt
 
 7. Run the Flask application:
 
-    Open Terminal Of VS Code any write this code there :
+    Open Terminal Of VS Code and write this code there :
 
-        Code : Python app.py
+        Python app.py
       
-8. Open your web browser and navigate to [http://localhost:5000](http://localhost:5000) to access the application.
+8. Open your web browser and navigate to http://localhost:5000 to access the application.
 
 ## Dependencies
 
@@ -53,4 +53,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Live Link
 
-    Link : https://text-to-pdf-converter.onrender.com
+    https://text-to-pdf-converter.onrender.com
