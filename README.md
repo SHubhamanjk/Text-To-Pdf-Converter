@@ -46,11 +46,12 @@ The application relies on the following Python packages:
 - ReportLab: Library for generating PDF files.
 - Other dependencies listed in `requirements.txt`.
 
-## Contributing
+## License
+This project is licensed under the MIT License.
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+## Contact
+Developed by **Shubham Kumar Gupta**  
+- **GitHub**: [SHubhamanjk](https://github.com/SHubhamanjk)
+- **Email**: shubhashubham07kumargupta@gmail.com
+- **LinkedIn**: [Shubham Kumar Gupta](https://www.linkedin.com/in/shubhamiitpatna) 
 
-
-## Live Link
-
-    https://text-to-pdf-converter.onrender.com
